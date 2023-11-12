@@ -11,10 +11,7 @@ This repository contains code for implementing a Siamese Neural Network for imag
 5. [Model Architecture](#model-architecture)
 6. [Training](#training)
 7. [Evaluation](#evaluation)
-8. [Results](#results)
-9. [Usage](#usage)
-10. [License](#license)
-
+   
 ## Data Collection
 The dataset used in this project is organized into three folders: positive, negative, and anchor. Positive and negative folders contain images for training, while the anchor folder contains images used as reference points.
 
